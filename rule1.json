@@ -1,0 +1,131 @@
+[
+  {
+    "id" : 1,
+    "priority": 1,
+    "action" : { "type" : "block" },
+    "condition" : {
+      "urlFilter" :  "*://static.infoglobo.com.br/paywall/*"
+    }
+  },
+  {
+    "id" : 2,
+    "priority": 1,
+    "action" : { "type" : "block" },
+    "condition" : {
+      "urlFilter" :  "*://www.mellivoracode.com/*"
+    }
+  },
+  {
+    "id" : 3,
+    "priority": 1,
+    "action" : { "type" : "block" },
+    "condition" : {
+      "urlFilter" :  "https://cdn-client.medium.com/lite/static/js/10733.09841323.chunk.js"
+    }
+  },
+  {
+    "id" : 4,
+    "priority": 1,
+    "action" : { "type" : "block" },
+    "condition" : {
+      "urlFilter" :  "https://ricettafitness.com/aes.js"
+    }
+  },
+  {
+    "id" : 5,
+    "priority": 1,
+    "action" : { "type" : "block" },
+    "condition" : {
+      "urlFilter" :  "https://www.keroseed.com/wp-content/plugins/dh-anti-adblocker/*"
+    }
+  },
+  {
+    "id" : 6,
+    "priority": 1,
+    "action" : { "type" : "block" },
+    "condition" : {
+      "urlFilter" :  "https://amazflixhd.com/abloq.js"
+    }
+  },
+  {
+    "id" : 7,
+    "priority": 1,
+    "action" : { "type" : "block" },
+    "condition" : {
+      "urlFilter" :  "https://amazflixhd.com/abloq2.js"
+    }
+  },
+  {
+    "id" : 8,
+    "priority": 1,
+    "action" : { "type" : "block" },
+    "condition" : {
+      "urlFilter" :  "https://midiacamaleao.com.br/js/block.js"
+    }
+  },
+  {
+    "id" : 9,
+    "priority": 1,
+    "action" : { "type" : "block" },
+    "condition" : {
+      "urlFilter" :  "https://midiacamaleao.com.br/js/burn.min.js"
+    }
+  },
+  {
+    "id" : 10,
+    "priority": 1,
+    "action" : { "type" : "block" },
+    "condition" : {
+      "urlFilter" :  "https://midiacamaleao.com.br/js/fake.js"
+    }
+  },
+  {
+    "id" : 11,
+    "priority": 1,
+    "action" : { "type" : "block" },
+    "condition" : {
+      "urlFilter" :  "https://receitasdodia.fun/js/fake.js"
+    }
+  },
+  {
+    "id" : 12,
+    "priority": 1,
+    "action" : { "type" : "block" },
+    "condition" : {
+      "urlFilter" :  "https://receitasdodia.fun/js/block.js"
+    }
+  },
+  {
+    "id" : 13,
+    "priority": 1,
+    "action" : { "type" : "block" },
+    "condition" : {
+      "urlFilter" :  "https://cdn-client.medium.com/lite/static/js/0*"
+    }
+  },
+  {
+    "id" : 14,
+    "priority": 1,
+    "action" : { "type" : "block" },
+    "condition" : {
+      "urlFilter" :  "https://www.keroseed.com/wp-content/plugins/chp-ads-block-detector/*"
+    }
+  },
+  {
+    "id" : 15,
+    "priority": 1,
+    "action" : { "type" : "block" },
+    "condition" : {
+      "urlFilter" :  "https://shrtfly.com/js/*"
+    }
+  },
+  {
+    "id" : 16,
+    "priority": 1,
+    "action" : { "type" : "block" },
+    "condition" : {
+      "urlFilter" :  "https://cdnjs.cloudflare.com/ajax/libs/crypto-js/*"
+    }
+  }
+  
+]

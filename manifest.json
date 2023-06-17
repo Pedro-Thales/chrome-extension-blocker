@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+
+  "name": "Unblock Things",
+  "version": "0.1.0",
+  "description": "Unblock things that are annoying by Pedro",
+
+  "host_permissions": ["http://*/*", "https://*/*"],
+
+  "declarative_net_request" : {
+    "rule_resources" : [{
+      "id": "ruleset_1",
+      "enabled": true,
+      "path": "rule1.json"
+    }]
+  },
+  "permissions": [
+    "declarativeNetRequest",
+    "declarativeNetRequestFeedback"
+  ]
+
+}
